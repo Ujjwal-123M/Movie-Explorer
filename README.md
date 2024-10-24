@@ -7,7 +7,7 @@ Here’s the revised **README** section for your "Movie Explorer" project:
 
 Movie Explorer is a dynamic web application that allows users to **search** for movies, **view details**, and **explore cast information**. Powered by **ReactJS** and **Redux**, the app provides a fast, seamless experience, integrating a third-party API for fetching and displaying comprehensive movie data.  
 
-![Movie Explorer Banner](https://user-images.example.com/movie-explorer-banner.png)  
+
 
 ---
 
